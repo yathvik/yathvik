@@ -5,7 +5,7 @@ I am a **Machine Learning and Data Science enthusiast** with a passion for solvi
 
 I am currently focusing on improving my portfolio and gaining experience in **ML pipelines, data preprocessing, and model deployment**.
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yathvik&show_icons=true)
 ## 🛠️ Skills
 
 **Programming & Tools:**  
