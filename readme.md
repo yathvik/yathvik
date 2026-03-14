@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Ujjwal Pathak 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yathvik&show_icons=true)
 ## 🚀 About Me
 I am a **Machine Learning and Data Science enthusiast** with a passion for solving real-world problems using Python and AI. I enjoy building projects that involve **predictive modeling, classification, time series forecasting, and computer vision**.  
 
 I am currently focusing on improving my portfolio and gaining experience in **ML pipelines, data preprocessing, and model deployment**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yathvik&show_icons=true)
+
 ## 🛠️ Skills
 
 **Programming & Tools:**  
