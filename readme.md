@@ -45,7 +45,7 @@ Here are some of my key projects:
 
 ## 📫 Contact Me
 
-- **LinkedIn:   https://www.linkedin.com/in/ujjwal-pathak-99520235/
+- **LinkedIn:   https://www.linkedin.com/in/ujjwal-pathak-ml/
 - **Email:** ujjwalpathak2010@gmail.com
 
 
